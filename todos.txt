@@ -1,0 +1,6 @@
+[x] Hacer clickeable el icono "bag"
+[x] Mostrar el menú checkout al hacer click en el icono "bag"
+[x] Diseñar el menú checkout
+
+[x] Crear una prop para pasar los datos que se necesitan para colocar la información de cada producto
+[x] Crear un componente para guardar el producto en el carrito
